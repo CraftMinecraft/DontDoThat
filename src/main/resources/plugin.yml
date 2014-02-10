@@ -1,0 +1,4 @@
+name: DontDoThat
+main: net.craftminecraft.bungee.dontdothat.DontDoThat
+version: ${pom.version}-${build.number}
+author: roblabla
